@@ -27,7 +27,9 @@ Presentation: https://sintez.global/sintez_presentation_eng.pdf
 
 Subscribe to News: https://global.us16.list-manage.com/subscribe/post?u=acca0c1077105720c48e397ae&id=51f8040de8
 
+
 Contacts:
+
 facebook - https://www.facebook.com/sintez.global/
 
 twitter - https://twitter.com/sintez_global/
