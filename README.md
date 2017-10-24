@@ -26,3 +26,11 @@ Whitepaper in English: https://sintez.global/sintez_whitepaper_eng.pdf
 Presentation: https://sintez.global/sintez_presentation_eng.pdf
 
 Subscribe to News: https://global.us16.list-manage.com/subscribe/post?u=acca0c1077105720c48e397ae&id=51f8040de8
+
+Contacts:
+facebook - https://www.facebook.com/sintez.global/
+twitter - https://twitter.com/sintez_global/
+telegram public group - https://t.me/sintez_global/
+medium - https://medium.com/@sintez.global/
+e-mail - mailto:info@sintez.global 
+
