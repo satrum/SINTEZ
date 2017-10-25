@@ -41,7 +41,9 @@ medium - https://medium.com/@sintez.global/
 e-mail - mailto:info@sintez.global 
 
 Announcement:
+
 ENG - https://bitcointalk.org/index.php?topic=2305454
+
 RUS - https://bitcointalk.org/index.php?topic=2303894
 
 -----------------
