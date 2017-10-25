@@ -27,17 +27,38 @@ Presentation: https://sintez.global/sintez_presentation_eng.pdf
 
 Subscribe to News: https://global.us16.list-manage.com/subscribe/post?u=acca0c1077105720c48e397ae&id=51f8040de8
 
-
 Contacts:
 
 facebook - https://www.facebook.com/sintez.global/
 
 twitter - https://twitter.com/sintez_global/
 
-telegram public group - https://t.me/sintez_global/
+telegram public group for ENG - https://t.me/sintez_future/ 
+telegram public group for RUS - https://t.me/sintez_global/
 
 medium - https://medium.com/@sintez.global/
 
 e-mail - mailto:info@sintez.global 
+
+Announcement:
+ENG - https://bitcointalk.org/index.php?topic=2305454
+RUS - https://bitcointalk.org/index.php?topic=2303894
+
+-----------------
+Bounty Post - https://bitcointalk.org/index.php?topic=2313255
+
+Bounty tables:
+    Facebook campaign: 
+https://docs.google.com/spreadsheets/d/1a3ztoeKSSZ1ufdalvO8tTHPTsXFk9JBBDixMSQATaZo/
+    Twitter campaign:
+https://docs.google.com/spreadsheets/d/1XtSoCXCTqp6fmYJMKtlOet6zaVL4YifadkquM-3ej88/
+    Translation campaign:
+https://docs.google.com/spreadsheets/d/1iEEcJPYa1zxXJDQWR9io-5kD9BnWkdS0f4BdttNtAt0/
+    Signature campaign:
+https://docs.google.com/spreadsheets/d/1uPG4p6RRUGbdVSLMo9CHgHGKGGllm6oOLaCU5-whzfI/
+    Telegram:
+https://docs.google.com/spreadsheets/d/16U2g1MAGnhHBK-tsh65U5mfiRq_Fy5b9US0_d-eN5ww/
+
+
 
 
