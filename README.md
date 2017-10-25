@@ -22,8 +22,10 @@ Project Website: https://sintez.global
 ICO Website: https://sintez.global/ico
 
 Whitepaper in English: https://sintez.global/sintez_whitepaper_eng.pdf
+Whitepaper in Russian: https://sintez.global/sintez_whitepaper_rus.pdf
 
-Presentation: https://sintez.global/sintez_presentation_eng.pdf
+Presentationin English: https://sintez.global/sintez_presentation_eng.pdf
+Presentation in Russian: https://sintez.global/sintez_presentation_rus.pdf
 
 Subscribe to News: https://global.us16.list-manage.com/subscribe/post?u=acca0c1077105720c48e397ae&id=51f8040de8
 
