@@ -59,6 +59,8 @@ https://docs.google.com/spreadsheets/d/1uPG4p6RRUGbdVSLMo9CHgHGKGGllm6oOLaCU5-wh
     Telegram:
 https://docs.google.com/spreadsheets/d/16U2g1MAGnhHBK-tsh65U5mfiRq_Fy5b9US0_d-eN5ww/
 
-
+----------------
+Smart Contract:
+On audit. Will be added soon.
 
 
