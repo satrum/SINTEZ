@@ -76,3 +76,7 @@ About SINTEZ in simple words. https://medium.com/@sintez.global/about-sintez-in-
 
 Смарт-контракт Ethereum для расчета бонусов используя дробные степени:https://habrahabr.ru/post/340984/
 
+---------------
+ICO LISTS:
+https://icobench.com/ico/sintez 4.0 need to add info: team, video
+
