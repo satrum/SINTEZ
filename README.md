@@ -69,4 +69,11 @@ https://docs.google.com/spreadsheets/d/16U2g1MAGnhHBK-tsh65U5mfiRq_Fy5b9US0_d-eN
 Smart Contract:
 On audit. Will be added soon.
 
+----------------
+Articles:
+About SINTEZ in simple words. https://medium.com/@sintez.global/about-sintez-in-simple-words-5e74c523f2d0
+
+Простыми словами о SINTEZ https://medium.com/@sintez.global/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BE-sintez-96fce82465ec
+
+Смарт-контракт Ethereum для расчета бонусов используя дробные степени:https://habrahabr.ru/post/340984/
 
