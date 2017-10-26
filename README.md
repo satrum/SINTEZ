@@ -54,16 +54,15 @@ RUS - https://bitcointalk.org/index.php?topic=2303894
 Bounty Post - https://bitcointalk.org/index.php?topic=2313255
 
 Bounty tables:
-    Facebook campaign: 
-https://docs.google.com/spreadsheets/d/1a3ztoeKSSZ1ufdalvO8tTHPTsXFk9JBBDixMSQATaZo/
-    Twitter campaign:
-https://docs.google.com/spreadsheets/d/1XtSoCXCTqp6fmYJMKtlOet6zaVL4YifadkquM-3ej88/
-    Translation campaign:
-https://docs.google.com/spreadsheets/d/1iEEcJPYa1zxXJDQWR9io-5kD9BnWkdS0f4BdttNtAt0/
-    Signature campaign:
-https://docs.google.com/spreadsheets/d/1uPG4p6RRUGbdVSLMo9CHgHGKGGllm6oOLaCU5-whzfI/
-    Telegram:
-https://docs.google.com/spreadsheets/d/16U2g1MAGnhHBK-tsh65U5mfiRq_Fy5b9US0_d-eN5ww/
+    Facebook campaign: https://docs.google.com/spreadsheets/d/1a3ztoeKSSZ1ufdalvO8tTHPTsXFk9JBBDixMSQATaZo/
+    
+    Twitter campaign:https://docs.google.com/spreadsheets/d/1XtSoCXCTqp6fmYJMKtlOet6zaVL4YifadkquM-3ej88/
+    
+    Translation campaign:https://docs.google.com/spreadsheets/d/1iEEcJPYa1zxXJDQWR9io-5kD9BnWkdS0f4BdttNtAt0/
+    
+    Signature campaign:https://docs.google.com/spreadsheets/d/1uPG4p6RRUGbdVSLMo9CHgHGKGGllm6oOLaCU5-whzfI/
+    
+    Telegram:https://docs.google.com/spreadsheets/d/16U2g1MAGnhHBK-tsh65U5mfiRq_Fy5b9US0_d-eN5ww/
 
 ----------------
 Smart Contract:
