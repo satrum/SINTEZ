@@ -78,5 +78,15 @@ About SINTEZ in simple words. https://medium.com/@sintez.global/about-sintez-in-
 
 ---------------
 ICO LISTS:
-https://icobench.com/ico/sintez 4.0 need to add info: team, video
+ICOBench    https://icobench.com/ico/sintez 4.0 need to add info: team, video
+
+TRACKICO    https://www.trackico.io/ico/sintez/
+
+DIGRATE     http://digrate.com/ru/ico/471
+
+MMGP        http://mmgp.ru/showthread.php?t=543951 - finance forum
+
+on common list:
+http://icochecker.com/ico-coming/
+https://www.icoalert.com/
 
