@@ -78,6 +78,7 @@ About SINTEZ in simple words. https://medium.com/@sintez.global/about-sintez-in-
 
 ---------------
 ICO LISTS:
+
 ICOBench    https://icobench.com/ico/sintez 4.0 need to add info: team, video
 
 TRACKICO    https://www.trackico.io/ico/sintez/
