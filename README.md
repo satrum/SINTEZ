@@ -21,6 +21,8 @@ Project Website: https://sintez.global
 
 ICO Website: https://sintez.global/ico
 
+Pre-sale page: https://sintez.global/pre-sale/
+
 Whitepaper in English: https://sintez.global/sintez_whitepaper_eng.pdf
 
 Whitepaper in Russian: https://sintez.global/sintez_whitepaper_rus.pdf
