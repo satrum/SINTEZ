@@ -89,6 +89,8 @@ DIGRATE     http://digrate.com/ru/ico/471
 
 MMGP        http://mmgp.ru/showthread.php?t=543951 - finance forum
 
+icosource   https://icosource.io/ico/sintez/
+
 on common list:
 http://icochecker.com/ico-coming/
 https://www.icoalert.com/
