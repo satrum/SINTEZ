@@ -68,7 +68,8 @@ Bounty tables:
 
 ----------------
 Smart Contract:
-On audit. Will be added soon.
+On audit. Production will be added soon.
+https://github.com/satrum/SINTEZ/blob/master/crowdsale(DEV).sol - not for use in production!
 
 ----------------
 Articles:
