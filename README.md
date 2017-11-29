@@ -37,6 +37,8 @@ Contacts:
 
 facebook - https://www.facebook.com/sintez.global/
 
+vk - https://vk.com/sintez.global
+
 twitter - https://twitter.com/sintez_global/
 
 telegram public group for ENG - https://t.me/sintez_future/ 
