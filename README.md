@@ -75,7 +75,11 @@ https://github.com/satrum/SINTEZ/blob/master/crowdsale(DEV).sol - not for use in
 
 ----------------
 Articles:
+important update about Pre-sale https://medium.com/@sintez.global/important-update-about-pre-sale-258f45b32872
+
 About SINTEZ in simple words. https://medium.com/@sintez.global/about-sintez-in-simple-words-5e74c523f2d0
+
+Важное обновление по Pre-sale https://medium.com/@sintez.global/%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE-pre-sale-a8de5adc980a
 
 Простыми словами о SINTEZ https://medium.com/@sintez.global/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-%D0%BE-sintez-96fce82465ec
 
